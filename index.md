@@ -11,5 +11,3 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
-###### code example 2
-var myVar = "Hello, world!";
